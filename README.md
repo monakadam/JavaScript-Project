@@ -1,5 +1,7 @@
 # JavaScript-Project
-created a project using HTML CSS And JavaScript(API). 
-![API Project](https://user-images.githubusercontent.com/105486742/200236259-bec745a6-0f4d-4eb8-8dff-6149a6a8a6cc.jpg)
+created a project using HTML CSS And JavaScript(API).
+
+![API Project](https://user-images.githubusercontent.com/105486742/200237297-927cdc78-2bae-4160-908e-2740b95287b9.jpg)
+
 
 The API Provider:-https://www.themealdb.com/api.php
