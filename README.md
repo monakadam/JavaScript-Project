@@ -1,2 +1,2 @@
 # JavaScript-Project
-created a javascript project using API 
+created a project using HTML CSS And JavaScript.Also Use Here The API  
